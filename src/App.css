@@ -13,6 +13,11 @@
   }
 }
 
+.search-location-input {
+  width: 600px;
+  margin: auto;
+ }
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
